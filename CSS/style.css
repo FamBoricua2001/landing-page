@@ -1,0 +1,10 @@
+img {
+    width: 50%;
+    height: auto;
+}
+
+.favorites-desc {
+    color: #b85c38;
+    font-size: 1.2em;
+    font-style: italic;
+}
