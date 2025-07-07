@@ -4,7 +4,18 @@ img {
 }
 
 .favorites-desc {
-    color: #b85c38;
+    color: red;
     font-size: 1.2em;
     font-style: italic;
+}
+
+.img-text-side {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-top: 10px;
+}
+.side-text {
+    max-width: 300px;
+    font-size: 1em;
 }
