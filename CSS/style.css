@@ -15,10 +15,12 @@ img {
     gap: 20px;
     margin-top: 10px;
 }
+
 .side-text {
     max-width: 300px;
     font-size: 1em;
 }
+
 em {
     color: darkorange;
     font-style: italic;
