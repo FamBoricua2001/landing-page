@@ -19,3 +19,7 @@ img {
     max-width: 300px;
     font-size: 1em;
 }
+em {
+    color: darkorange;
+    font-style: italic;
+}
