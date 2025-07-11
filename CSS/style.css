@@ -39,3 +39,13 @@ em {
     border-radius: 5px;
     background-color: #f9f9f9;
 }
+
+.button-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: orangered;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
